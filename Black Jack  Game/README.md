@@ -11,7 +11,7 @@
 ![Asking to type your balance](https://raw.githubusercontent.com/amrkhateeb/games/master/Black%20Jack%20%20Game/Images/1.JPG)
 <br/><br/>
 
-- Then the program will ask to type the bets for this round.
+- Then the program will ask you to type the bets for this round.
 ![Asking to type your bets in this round](https://raw.githubusercontent.com/amrkhateeb/games/master/Black%20Jack%20%20Game/Images/2.JPG)
 <br/><br/>
 
@@ -20,7 +20,7 @@
 ![Type hit or stay](https://raw.githubusercontent.com/amrkhateeb/games/master/Black%20Jack%20%20Game/Images/3.JPG)
 <br/><br/>
 
-- The Dealers Turn come after  you type (stay).
+- The Dealers Turn come after you type (stay).
 - After the Dealer's turn, the program will show:
 1. Player's Score.
 2. Dealer's Score.
